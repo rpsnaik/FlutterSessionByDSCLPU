@@ -1,0 +1,213 @@
+{
+    "users": [
+        {
+            "email": "naik.rpsn@gmail.com",
+            "password": "123456",
+            "name": "R P S Naik",
+            "profilePicLink": "https://lh3.googleusercontent.com/a-/AAuE7mDDqxo2zjnALjoQtKF-hJtYE_Wgl3l4HxRqPsDvxw=s96-c",
+            "subscriptionEndsIn": 5,
+            "hasSubscription": true,
+            "planDetailsIndex": 2,
+            "isEighteen": true,
+
+            "previouslyWatched": [0, 4]
+        },
+        {
+            "email": "account2@gmail.com",
+            "password": "123456",
+            "name": "Account 2",
+            "profilePicLink": "https://lh3.googleusercontent.com/a-/AAuE7mDDqxo2zjnALjoQtKF-hJtYE_Wgl3l4HxRqPsDvxw=s96-c",
+            "subscriptionEndsIn": 0,
+            "hasSubscription": false,
+            "planDetailsIndex": null,
+            "isEighteen": true,
+
+            "previouslyWatched": null
+        },
+        {
+            "email": "account3@gmail.com",
+            "password": "123456",
+            "name": "Account 3",
+            "profilePicLink": "https://lh3.googleusercontent.com/a-/AAuE7mDDqxo2zjnALjoQtKF-hJtYE_Wgl3l4HxRqPsDvxw=s96-c",
+            "subscriptionEndsIn": 10,
+            "hasSubscription": true,
+            "planDetailsIndex": 0,
+            "isEighteen": true,
+
+            "previouslyWatched": [1, 4]
+        }
+    ],
+
+    "plans": [
+        {
+            "planId": 0,
+            "planName": "Basic",
+            "HDAvail": false,
+            "ultraHDAvai": false,
+            "screensCount": 1,
+            "subPrice": 499
+        },
+        {
+            "planId": 1,
+            "planName": "Standard",
+            "HDAvail": true,
+            "ultraHDAvai": false,
+            "screensCount": 2,
+            "subPrice": 649
+        },
+        {
+            "planId": 2,
+            "planName": "Premium",
+            "HDAvail": true,
+            "ultraHDAvai": true,
+            "screensCount": 4
+        }
+    ],
+
+    "showsDetails": [
+        {
+            "showId": 0,
+            "showTitle": "Stranger Things",
+            "releaseIn": 2016,
+            "showThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzwMe4HALXA_eXyS9-eNoD5t3yM0cauNRq68soJ17hIfcqHZKE",
+            "showDetails": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+            "creators": "The Duffer Brothers",
+            "seasons": [
+                {
+                    "seasonVal": 1,
+                    "seasonTitle": "Season - 1",
+                    "seasonThumbnail": "https://honknews.com/wp-content/uploads/2020/01/Stranger_Things_Season_1_3.jpg",
+                    "seasonYouTubeVidLinkId": "mnd7sFt5c3A"
+                },
+                {
+                    "seasonVal": 2,
+                    "seasonTitle": "Season - 2",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaepIRgr7Wh3ZbX44nOszZIgUG9SBZpAH2qMXg8ph7I01v2PYu",
+                    "seasonYouTubeVidLinkId": "R1ZXOOLMJ8s"
+                },
+                {
+                    "seasonVal": 3,
+                    "seasonTitle": "Season - 3",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdZDLtaYx3ttM0ampNJMbpeywTdx1h3juh4zGZr4yOmudOLnzK",
+                    "seasonYouTubeVidLinkId": "XcnHOQ-cHa0"
+                }
+            ]
+        },
+
+        {
+            "showId": 1,
+            "showTitle": "The Crown",
+            "releaseIn": 2016,
+            "showThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvu50WnB8-dXMi6WPP9JKRFD8glxJo_UCyNzea72GBGKX_7wOy",
+            "showDetails": "This drama follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "creators": "Peter Morgan",
+            "seasons": [
+                {
+                    "seasonVal": 1,
+                    "seasonTitle": "Season - 1",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvu50WnB8-dXMi6WPP9JKRFD8glxJo_UCyNzea72GBGKX_7wOy",
+                    "seasonYouTubeVidLinkId": "JWtnJjn6ng0"
+                },
+                {
+                    "seasonVal": 2,
+                    "seasonTitle": "Season - 2",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvu50WnB8-dXMi6WPP9JKRFD8glxJo_UCyNzea72GBGKX_7wOy",
+                    "seasonYouTubeVidLinkId": "w1pIbUOc_lU"
+                },
+                {
+                    "seasonVal": 3,
+                    "seasonTitle": "Season - 3",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvu50WnB8-dXMi6WPP9JKRFD8glxJo_UCyNzea72GBGKX_7wOy",
+                    "seasonYouTubeVidLinkId": "vLXYfgpqb8A"
+                }
+            ]
+        },
+
+        {
+            "showId": 2,
+            "showTitle": "Orange is the New Black",
+            "releaseIn": 2013,
+            "showThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2NIRNHMQxZHK3bq5uc5a5KGos8gSykUcg7clKzF43FSywtwLz",
+            "showDetails": "A privileged New Yorker ends up in a women's prison when a past crime catches up with her in this Emmy-winning series from the creator of 'Weeds'",
+            "creators": "Jenji Kohan",
+            "seasons": [
+                {
+                    "seasonVal": 1,
+                    "seasonTitle": "Season - 1",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2NIRNHMQxZHK3bq5uc5a5KGos8gSykUcg7clKzF43FSywtwLz",
+                    "seasonYouTubeVidLinkId": "vY0qzXi5oJg"
+                },
+                {
+                    "seasonVal": 2,
+                    "seasonTitle": "Season - 2",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2NIRNHMQxZHK3bq5uc5a5KGos8gSykUcg7clKzF43FSywtwLz",
+                    "seasonYouTubeVidLinkId": "vY0qzXi5oJg"
+                },
+                {
+                    "seasonVal": 3,
+                    "seasonTitle": "Season - 3",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2NIRNHMQxZHK3bq5uc5a5KGos8gSykUcg7clKzF43FSywtwLz",
+                    "seasonYouTubeVidLinkId": "vY0qzXi5oJg"
+                },
+                {
+                    "seasonVal": 4,
+                    "seasonTitle": "Season - 4",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2NIRNHMQxZHK3bq5uc5a5KGos8gSykUcg7clKzF43FSywtwLz",
+                    "seasonYouTubeVidLinkId": "vY0qzXi5oJg"
+                },
+                {
+                    "seasonVal": 5,
+                    "seasonTitle": "Season - 5",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2NIRNHMQxZHK3bq5uc5a5KGos8gSykUcg7clKzF43FSywtwLz",
+                    "seasonYouTubeVidLinkId": "vY0qzXi5oJg"
+                },
+                {
+                    "seasonVal": 6,
+                    "seasonTitle": "Season - 6",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2NIRNHMQxZHK3bq5uc5a5KGos8gSykUcg7clKzF43FSywtwLz",
+                    "seasonYouTubeVidLinkId": "vY0qzXi5oJg"
+                },
+                {
+                    "seasonVal": 7,
+                    "seasonTitle": "Season - 7",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2NIRNHMQxZHK3bq5uc5a5KGos8gSykUcg7clKzF43FSywtwLz",
+                    "seasonYouTubeVidLinkId": "vY0qzXi5oJg"
+                }
+            ]
+        },
+
+        {
+            "showId": 3,
+            "showTitle": "Chilling Adventures of Sabrina",
+            "releaseIn": 2018,
+            "showThumbnail": "https://pmctvline2.files.wordpress.com/2018/10/chilling-adventures-of-sabrina-credits.jpg?w=620",
+            "showDetails": "Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night.",
+            "creators": "Kiernan Shipka,Ross Lynch,Miranda Otto",
+            "seasons": [
+                {
+                    "seasonVal": 1,
+                    "seasonTitle": "Season - 1",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGkILN3s_ST6vEtHdU9bBINLRIg0AdV-BJkpMfNdd0IIet7Koa",
+                    "seasonYouTubeVidLinkId": "ybKUX6thF8Q"
+                },
+                {
+                    "seasonVal": 2,
+                    "seasonTitle": "Season - 2",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGkILN3s_ST6vEtHdU9bBINLRIg0AdV-BJkpMfNdd0IIet7Koa",
+                    "seasonYouTubeVidLinkId": "ybKUX6thF8Q"
+                },
+                {
+                    "seasonVal": 3,
+                    "seasonTitle": "Season - 3",
+                    "seasonThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGkILN3s_ST6vEtHdU9bBINLRIg0AdV-BJkpMfNdd0IIet7Koa",
+                    "seasonYouTubeVidLinkId": "ybKUX6thF8Q"
+                }
+            ]
+        }
+
+
+
+    ]
+
+
+}
